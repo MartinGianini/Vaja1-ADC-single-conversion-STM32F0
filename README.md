@@ -22,3 +22,4 @@ b. 10-bit, od 0 do 1023
 c. 12-bit, od 0 do 4095
 
 //Hitra, kratka vaja.
+Delovanje: s premikom potenciometra se spreminja vrednost adcValue od 0 do 251, kot prikazano v STMStudio (čeprav bi moralo biti do 255).
