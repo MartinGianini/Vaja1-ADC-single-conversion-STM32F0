@@ -14,7 +14,7 @@ e)
 3
 
 f)
-ADC_IN_10
+ADC_IN10
 
 h)
 a. 6-bit, od 0 do 63
